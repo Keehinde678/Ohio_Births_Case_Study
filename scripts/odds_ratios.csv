@@ -1,0 +1,10 @@
+,0
+Intercept,2.7520551305900676
+C(race_of_mother)[T.Asian or Pacific Islander/Hawaiian],1.456982582650563
+C(race_of_mother)[T.Native American],1.6736908463157572
+C(race_of_mother)[T.Unknown/Not Reported],1.5037347426613177
+C(race_of_mother)[T.White],0.8542741429328657
+age_std,1.0425757359114047
+edu_std,1.0245183908759266
+unemp_std,0.9303874147784572
+Group Var,1.3392296984580165
